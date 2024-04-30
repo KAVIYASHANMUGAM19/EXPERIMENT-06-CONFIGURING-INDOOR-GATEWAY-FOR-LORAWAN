@@ -1,6 +1,4 @@
-## NAME : S.KAVIYA
-## DEPARTMENT : CSE
-## REGISTER NO : 212223040090
+ ## DATE: 26.03.24
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
